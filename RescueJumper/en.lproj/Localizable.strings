@@ -1,0 +1,125 @@
+/* 
+  Localizable.strings
+  RescueJumper
+
+  Created by Constantin on 8/6/12.
+  Copyright (c) 2012 {EPITECH.}. All rights reserved.
+*/
+
+"GameLevel1Intro" = "Hello fellow human ! Welcome to the\nRescueJumper training camp !\nIn this first stage I'll teach you how to\ncontrol your troops.\nLet's try with a simple case.\nLead these guys to this building.\nI show you and you repeat.\nOk?";
+"GameLevel1ShortIntro" = "Lead these guys to this building.";
+
+"GameLevel2Intro" = "Glad to see the first test wasn't a problem\nto you!\nDuring your missions you will be in charge\nof collecting the surivors left on top\nof buildings, and lead them to safety.\nOnce you have collected enough of them,\nwe will try to send you a rescue ship.\nAll you have to do is drag a way\nto these ships.\n\nStart by talking to these guys waiting there,\nonce done, they will follow you.";
+"GameLevel2ShipTutorial" = "Good !\n\nNow that they agree to follow you,\nyou have to get them\ninside this rescue ship.";
+"GameLevel2ShortIntro" = "Get them to the rescue ship.";
+
+"GameLevel3Intro" = "Hey ! Nice to see you again recruit !\nThis stage aims to teach you speed !\nGetting all humans away from a building\nmay take time.\nTo go faster, just create more than one\nway off a building. Like this:";
+"GameLevel3ShortIntro" = "Make it quick !";
+
+"GameLevel4Intro" = "Yeah! You made it to the last training stage !\nThis stage is a little excursion into the wild.\nYou have to reach the hospital with these\nhumans, but don't lose too many of them !";
+"GameLevel4ShortIntro" = "Reach the hospital.";
+
+"SurvivalShipTutorial" = "Now that you have plenty of survivors,\nyou have to get them out of danger\nby dropping them in this spaceship.";
+
+"SurvivalPlateformeTutorial" = "Looks like you don't know quite what to do,\nright ?\nNo problem, I'll show you.";
+
+"SurvivalSaveSiblingsTutorial" = "Lost again;) ? You're meant to save\nthese guys there.";
+
+"SurvivalCrowdedPlateformeTutorial" = "Over-crowded platforms ? Let me show you.\nYou can create more than one way\nfrom a platform.";
+
+"SurvivalWelcomeTutorial" = "Welcome to the survival mode, recruit!\n\nYour mission is simple, rescue the survivors\nleft at ground zero.\nAnd lead them to safety.";
+
+"SurvivalClockGuyTutorial" = "Ok, let me talk to you about the clock guy.\nOnce in a while you will find a survivor\nwith a clock above his head.\nThis guy is really important !\nHis clock will give you time for\nthe next level. If you don't save any\nin a level, you won't be able\nto go to the next level !";
+
+"SurvivalHospitalTutorial" = "Nice, you have reached your first\nHospital ! You will find one at\nthe end of each levels,\nwhen the time left reaches 0.\nThe time you'll have for the next level\ndepends on the number of\nclock guys you saved.\n\nThe level ends when all the survivors\nare on the hospital's roof.";
+
+"SurvivalShopTutorial" = "Hey ! It's me again.\nI have some bad news for you:(\nSending you ships costs a lot, and\nwe're running out of money up there.\nSo we won't be able to send you\nships as regularly:/\nBut the good thing is, you have\ncollected coins.. well I hope so.\nYou will have to buy your own\nships at the hospital now.\n\n\nHo, and I almost forgot, you can\nbuy missile launchers too:)";
+
+"SurvivalTimeOutTutorial" = "Argh ! Game Over !\n\nYou got out of time... This happens\nwhen you don't save any clock guys.\nGet everyone on the mother ship\nto end your mission.\nNext time you'll do better,\nfor sure !";
+
+"SurvivalAllDeadTutorial" = "Argh ! Game Over !\n\nYou've lost all the survivors !\nYou need at least one to continue !";
+
+"GameLevelCleared" = "Level cleared !";
+"GameLevelFailed" = "Level failed !";
+
+"GameLevelFailedKill" = "You're meant to save these guies, not to kill them !";
+
+"GameLevel1Grade1" = "Well... that was slow. But, I'm a good guy so you can go to the next level.";
+"GameLevel1Grade2" = "Ok, not impressive, but enough to go to the next level.";
+"GameLevel1Grade3" = "Good ! You have my permission to go to the next level.";
+"GameLevel1Grade4" = "Great ! Not your first time here, right ?";
+
+"GameLevel2Grade1" = "Well... I let you go to the next level, but you'd better be faster.";
+"GameLevel2Grade2" = "Ok, that'll be enough to go to the next stage.";
+"GameLevel2Grade3" = "Good ! Speed can save many lives down there !";
+"GameLevel2Grade4" = "Great ! If you do that well, you're going to be unbeatable !";
+"GameLevel2Failed" = "You missed the ship !";
+
+"GameLevel3Grade1" = "You did it, a bit slow, but you can go to the next level.";
+"GameLevel3Grade2" = "Ok, but you will have to be a little faster to save the world !";
+"GameLevel3Grade3" = "Good ! One more level and you will be ready for your first mission !";
+"GameLevel3Grade4" = "Whoohoo that was fast !";
+
+"GameLevel4Cleared" = "You cleared the last training stage ! You're now officially a RescueJumper !";
+
+"SurvivalEnd1" = "Hmm ok… that was… you might try again... now.";
+"SurvivalEnd2" = "Well, that was bad, and you should feel bad..";
+"SurvivalEnd3" = "Ok not THAT bad, but still bad..";
+"SurvivalEnd4" = "Ok, I see you got it, now do it again, better.";
+"SurvivalEnd5" = "Looks like we might have a chance, try harder !";
+"SurvivalEnd6" = "Good ! But the zombies are not that impressed.";
+"SurvivalEnd7" = "Haha! looks like we've got something here ! now do it better.";
+"SurvivalEnd8" = "Yeah that's good, but we're still far from your best !";
+"SurvivalEnd9" = "You're doing good, but I still see thousands survivors waiting for you !";
+"SurvivalEnd10" = "Not bad, not bad. I'm slightly impressed..";
+"SurvivalEnd11" = "Ho ho ho ! looks like we've got a badass over here.";
+"SurvivalEnd12" = "You got my respect now.";
+"SurvivalEnd13" = "Holy s**** ! how much !?";
+"SurvivalEnd14" = "GOD-LIKE !!";
+"SurvivalEnd15" = "You are a legend.";
+"SurvivalEnd16" = "You found a way to cheat right ?";
+
+"MissileLauncherDescription" = "Clean the big mess off the screen and do your job like a butterfly in an empty field !";
+"ShipItemDescription" = "Know what it feels to wait for a ship that doesn’t come ??";
+
+"Level" = "Level";
+"TimeForLevel" = "Time for level";
+"ReadyFor" = "Ready for";
+"ShowTutorial" = "Show tutorial";
+"ClockPicked" = "Let's see what you got...";
+"BackToMenu" = "Back to menu";
+
+"StatTime" = "Time";
+"StatLevel" = "Level";
+"StatConverted" = "Converted";
+"StatSaved" = "Saved";
+"StatSavedOctave" = "Saved Octave";
+"StatNukedZombies" = "Nuked zombies";
+"StatEndHumans" = "End humans";
+"StatHumanBonus" = "Human bonus";
+"StatCoins" = "Coins";
+"StatFullShip" = "Full ship";
+"StatTotalShips" = "Total ships";
+"StatNiceCatch" = "Nice catch";
+"StatJumpBases" = "Jump-bases";
+"StatMaxZombies" = "Max zombies";
+"StatMaxHumans" = "Max humans";
+"StatTotalJumps" = "Total jumps";
+"StatBrokenWalls" = "Broken walls";
+"StatBrokenPlateform" = "Broken platform";
+"StatBrokenShip" = "Broken ship";
+"StatFailedJumps" = "Failed jumps";
+"StatMissedHumans" = "Missed humans";
+"StatMissedOctave" = "Missed Octave";
+"StatKilledHumans" = "Killed humans";
+"StatKilledOctave" = "Killed Octave";
+"StatInfected" = "Infected";
+
+"TextIntro" = "Gotta save'em all ! ... ;)";
+"HospitalText" = "All on the hospital roof !";
+"EndLevelText" = "End level reached !";
+"TimeOut" = "Time Out ! :(\nGet back to mother ship !";
+
+"FBShareTitle" = "I've made %@ on RescueJumper for %@, try to beat that !";
+"FBShareBody" = "I've saved %d humans, alternately I also killed %d of them :/ But hey ! That's still %d full ships !";
+"TwitterShare" = "I've saved %d humans, alternately I also killed %d of them :/ But hey ! That's still %d full ships for a total of %@ points !";

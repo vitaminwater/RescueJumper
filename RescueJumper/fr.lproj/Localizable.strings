@@ -1,0 +1,125 @@
+/* 
+  Localizable.strings
+  RescueJumper
+
+  Created by Constantin on 8/6/12.
+  Copyright (c) 2012 {EPITECH.}. All rights reserved.
+*/
+
+"GameLevel1Intro" = "Salut, Humain ! Bienvenue au\ncamp d'entrainement de RescueJumper !\nLors de cette première étape, je vais\nt'apprendre comment contrôler tes troupes.\nCommençons par quelque chose de simple.\nEmmène ces rescapés jusqu'a ce bâtiment.\nJe te montre et tu le fais.\nOK ?";
+"GameLevel1ShortIntro" = "Emmène les rescapés jusqu'au bâtiment.";
+
+"GameLevel2Intro" = "Content de voir que le premier test\nn'a pas été un problème pour toi !\nPendant tes missions tu auras la\nresponsabilité d'emmener les survivants\ncachés sur les toits, hors de danger.\nUne fois que tu auras suffisamment de\nsurvivants avec toi, nous essayerons\nde t'envoyer une navette de secours.\nTout ce que tu devras faire c'est\nmettre les survivants dans cette navette.\nCommence par parler aux survivants qui\nattendent là. Une fois fait, ils te suivront.";
+"GameLevel2ShipTutorial" = "Parfait ! Maintenant qu'ils sont\nd'accord pour te suivre, tu dois\nles emmener dans cette navette de secours.";
+"GameLevel2ShortIntro" = "Mets les survivants dans la navette.";
+
+"GameLevel3Intro" = "Hey ! Ça fait plaisir de te revoir le bleu !\nCette fois, nous allons apprendre à aller vite !\nDéplacer les survivants d'un bâtiment\npeut prendre du temps.\nPour aller plus vite, tu devras créer\nplusieurs chemins de sortie.\nComme ça:";
+"GameLevel3ShortIntro" = "Fais vite !";
+
+"GameLevel4Intro" = "Bravo ! Tu as atteint le dernier niveau\nd'entrainement !\nCette dernière étape est un petit aperçu\nde ce qui t'attend dehors.\nIl faut que tu atteignes l'hôpital sans perdre\n trop de survivants en route!";
+"GameLevel4ShortIntro" = "Atteint l'hôpital.";
+
+"SurvivalShipTutorial" = "Maintenant que tu as plein de rescapés,\ntu dois les sauver en les mettant\ndans cette navette.";
+
+"SurvivalPlateformeTutorial" = "Il semblerait que tu ne saches pas trop\nquoi faire, hein ?\nPas de panique, je te montre.";
+
+"SurvivalSaveSiblingsTutorial" = "Encore perdu;) ? Tu dois aider\nces survivants là.";
+
+"SurvivalCrowdedPlateformeTutorial" = "Plateforme surchargée ?\nLaisse-moi te montrer.\nTu peux créer plus d'un chemin\npartant d'une plateforme.";
+
+"SurvivalWelcomeTutorial" = "Bienvenue dans le mode survival le bleu !\n\nTa mission est simple, sauver les\nrescapés restés en ville.\nEt les ramener en sécurité.";
+
+"SurvivalClockGuyTutorial" = "Ok, laisse moi te parler des horlogers.\nTu seras amené à croiser des rescapés\navec une horloge au dessus de la tête.\nIls sont super importants !\nLeur horloge te donnera du temps\npour le prochain niveau. Si tu n'en sauves pas\n pendant un niveau, tu ne pourras pas\npasser au niveau suivant !";
+ 
+"SurvivalHospitalTutorial" = "Bien, tu viens d'atteindre ton\npremier hôpital ! Tu en trouveras un\nà chaque fin de niveau, quand le temps\nrestant atteint 0. Le temps que\ntu auras pour faire le niveau suivant dépend\ndu nombre d'horloger que tu as sauvé.\nLe niveau s'arrête quand tous les rescapés\nsont sur le toit de l'hôpital.";
+
+"SurvivalShopTutorial" = "Hey ! C'est encore moi !\nJ'ai de mauvaises nouvelles pour toi:(\nEnvoyer des navettes coûte cher, et\non manque d'argent là haut.\nOn va avoir du mal à envoyer des\nnavettes aussi régulièrement:/\nMais la bonne nouvelle, c'est que\ntu as collecté des pièces... enfin j'espère.\nIl va falloir que tu achètes tes\npropres navettes maintenant.\nTu en trouveras à chaque\nhôpital.\n\n\nHa oui, j'oubliais, on a ajouté des\nlance-missiles aussi:)";
+
+"SurvivalTimeOutTutorial" = "Argh ! Fin de partie !\n\nTu as manqué de temps, c'est ce qui\narrive quand on ne récupère pas d'horloges.\nRassemble tout le monde sur le vaisseau\nmère pour finir ta mission et connaitre ton\nscore final.\nTu feras mieux la prochaine fois !";
+
+"SurvivalAllDeadTutorial" = "Argh ! Fin de partie !\n\nTu as perdu tous les survivants !\nIl en faut au moins un pour continuer !";
+
+"GameLevelCleared" = "Niveau Réussi !";
+"GameLevelFailed" = "Raté !";
+
+"GameLevelFailedKill" = "Tu es censé les sauver, et non les tuer !";
+
+"GameLevel1Grade1" = "Bon... c'était un peu long. Mais je suis sympa, tu passes un niveau suivant.";
+"GameLevel1Grade2" = "Ok, pas de quoi fouetter un chat, mais ce sera suffisant.";
+"GameLevel1Grade3" = "Bien ! Tu as ma permission pour passer au niveau suivant.";
+"GameLevel1Grade4" = "Parfait ! C'est pas la première fois que je te vois, nan ?";
+
+"GameLevel2Grade1" = "Bon... Je te laisse passer au niveau suivant, mais il faudra être plus rapide.";
+"GameLevel2Grade2" = "Ok, ce sera suffisant pour cette fois.";
+"GameLevel2Grade3" = "Bien ! La vitesse pourra te sauver la vie quand tu seras là bas !";
+"GameLevel2Grade4" = "Parfait ! Si tu fais aussi bien, tu deviendras vite imbattable !";
+"GameLevel2Failed" = "Tu as raté la navette !";
+
+"GameLevel3Grade1" = "Tu as réussi, pas super, mais suffisant.";
+"GameLevel3Grade2" = "Ok, mais il va falloir être plus rapide pour sauver le monde !";
+"GameLevel3Grade3" = "Bien ! Encore un niveau et tu seras prêts à sauver le monde !";
+"GameLevel3Grade4" = "Whoohoo c'était rapide !";
+
+"GameLevel4Cleared" = "C'était le dernier niveau d'entrainement ! Tu es maintenant un RescueJumper !";
+
+"SurvivalEnd1" = "Hmmm ok... comment dire... tu peux recommencer... maintenant ;)";
+"SurvivalEnd2" = "C'est pas comme ça qu'on va se débarrasser des zombies !";
+"SurvivalEnd3" = "Pas si mal, mais pas top non plus...";
+"SurvivalEnd4" = "Ça commence à rentrer ! Maintenant on recommence, en mieux !";
+"SurvivalEnd5" = "Ça commence à être pas mal, réessaie !";
+"SurvivalEnd6" = "Bien ! Mais les zombies ne sont pas trop impressionnés.";
+"SurvivalEnd7" = "Haha ! Je crois qu'on tient quelque chose !";
+"SurvivalEnd8" = "Ça c'est bien ! Mais tu peux faire encore mieux !";
+"SurvivalEnd9" = "Bon score ! Mais je vois encore un paquet de survivants qui t'attendent !";
+"SurvivalEnd10" = "Pas mal, pas mal. Je suis légèrement impressionné...";
+"SurvivalEnd11" = "Ho ho ho ! On a une futur légende là !";
+"SurvivalEnd12" = "Ok, tu as mon respect maintenant.";
+"SurvivalEnd13" = "Quoi ?! Combien ??";
+"SurvivalEnd14" = "T'es un tueur !";
+"SurvivalEnd15" = "Tu es une légende.";
+"SurvivalEnd16" = "T'as triché là, nan ?";
+
+"MissileLauncherDescription" = "Problème de zombies ? Un petit coup de nettoyage s'impose.";
+"ShipItemDescription" = "La navette de secours, l'outil indispensable du bon RescueJumper.";
+
+"Level" = "Niveau";
+"TimeForLevel" = "Temps";
+"ReadyFor" = "Prêt pour";
+"ShowTutorial" = "Montrer aides";
+"ClockPicked" = "Voyons ce que tu as récolté...";
+"BackToMenu" = "Retour au menu";
+
+"StatTime" = "Temps";
+"StatLevel" = "Niveau";
+"StatConverted" = "Convertis";
+"StatSaved" = "Sauvés";
+"StatSavedOctave" = "Octave sauvés";
+"StatNukedZombies" = "Zombies tués";
+"StatEndHumans" = "Humains de fin";
+"StatHumanBonus" = "Bonus Humains";
+"StatCoins" = "Argent";
+"StatFullShip" = "Navettes pleines";
+"StatTotalShips" = "Navettes";
+"StatNiceCatch" = "Nice catch";
+"StatJumpBases" = "Plateformes";
+"StatMaxZombies" = "Max de zombies";
+"StatMaxHumans" = "Max d'humains";
+"StatTotalJumps" = "Nombre de sauts";
+"StatBrokenWalls" = "Murs cassés";
+"StatBrokenPlateform" = "Plateformes cassées";
+"StatBrokenShip" = "Navettes cassées";
+"StatFailedJumps" = "Sauts ratés";
+"StatMissedHumans" = "Humains manqués";
+"StatMissedOctave" = "Octave manqués";
+"StatKilledHumans" = "Humains tués";
+"StatKilledOctave" = "Octave tués";
+"StatInfected" = "Infectés";
+
+"TextIntro" = "Sauve les rescapés !";
+"HospitalText" = "Tous sur le toit de l'hôpital !";
+"EndLevelText" = "Fin de niveau atteinte !";
+"TimeOut" = "Fin du temps ! :(\nTous sur le vaisseau mère !";
+
+"FBShareTitle" = "Je viens de faire %@ à RescueJumper sur %@, essaie de faire mieux !";
+"FBShareBody" = "Ça fait %d humains sauvés ! Bon, il y a eut %d victimes dans l'opération :/ Mais j'ai quand même réussi à remplir %d navettes ! C'est pas cool ça ??";
+"TwitterShare" = "Ça fait %d humains sauvés ! Bon, il y a eut %d victimes dans l'opération :/ Mais j'ai quand même réussi à remplir %d navettes ! Pour un total de %@ points ! Cool, nan ??";

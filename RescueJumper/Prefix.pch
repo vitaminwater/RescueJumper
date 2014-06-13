@@ -1,0 +1,25 @@
+//
+// Prefix header for all source files of the 'Test' target in the 'Test' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iPhone SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "TestFlight.h"
+
+#import "Notifications.h"
+#import "JumpBaseTypes.h"
+#import "StatItemKeys.h"
+#import "Scores.h"
+
+#define FB_APP_ID @"412451102124232"
+
+#define SCORE_LEADERBOARD @"TOTAL_SCORE2"
+
+#endif
