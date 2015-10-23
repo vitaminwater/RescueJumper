@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0C544FF8F64C4BB6A899A60A /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5B2EEEAFDA564DB6BDC99E34 /* libPods.a */; };
 		C704B4CD156F7FE40017715F /* menu_bt1player.png in Resources */ = {isa = PBXBuildFile; fileRef = C704B4BC156F7FE40017715F /* menu_bt1player.png */; };
 		C704B4CE156F7FE40017715F /* menu_bt2player.png in Resources */ = {isa = PBXBuildFile; fileRef = C704B4BD156F7FE40017715F /* menu_bt2player.png */; };
 		C704B4CF156F7FE40017715F /* menu_btgo.png in Resources */ = {isa = PBXBuildFile; fileRef = C704B4BE156F7FE40017715F /* menu_btgo.png */; };
@@ -154,12 +155,6 @@
 		C77680E5161D79860084DDE7 /* rocket.wav in Resources */ = {isa = PBXBuildFile; fileRef = C77680E4161D79860084DDE7 /* rocket.wav */; };
 		C77BF7201599CD2600C5BED0 /* CableSystemDisplayObject.m in Sources */ = {isa = PBXBuildFile; fileRef = C77BF71F1599CD2600C5BED0 /* CableSystemDisplayObject.m */; };
 		C77BF7231599CD3800C5BED0 /* CableNode.m in Sources */ = {isa = PBXBuildFile; fileRef = C77BF7221599CD3800C5BED0 /* CableNode.m */; };
-		C7821F9A15A9B11700469BA8 /* NSObject+SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = C7821F8915A9B11700469BA8 /* NSObject+SBJSON.m */; };
-		C7821F9B15A9B11700469BA8 /* NSString+SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = C7821F8B15A9B11700469BA8 /* NSString+SBJSON.m */; };
-		C7821F9C15A9B11700469BA8 /* SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = C7821F8D15A9B11700469BA8 /* SBJSON.m */; };
-		C7821F9D15A9B11700469BA8 /* SBJsonBase.m in Sources */ = {isa = PBXBuildFile; fileRef = C7821F8F15A9B11700469BA8 /* SBJsonBase.m */; };
-		C7821F9E15A9B11700469BA8 /* SBJsonParser.m in Sources */ = {isa = PBXBuildFile; fileRef = C7821F9115A9B11700469BA8 /* SBJsonParser.m */; };
-		C7821F9F15A9B11700469BA8 /* SBJsonWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = C7821F9315A9B11700469BA8 /* SBJsonWriter.m */; };
 		C786BC911687290D00CA1C94 /* menu_back.png in Resources */ = {isa = PBXBuildFile; fileRef = C786BC901687290C00CA1C94 /* menu_back.png */; };
 		C78D3597161DFD9100128C5B /* help-bh@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C78D358E161DFD9100128C5B /* help-bh@2x.png */; };
 		C78D3598161DFD9100128C5B /* help-bonus-jump@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C78D358F161DFD9100128C5B /* help-bonus-jump@2x.png */; };
@@ -671,6 +666,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5B2EEEAFDA564DB6BDC99E34 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		812DB68E8994467194499184 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 		C704B4BC156F7FE40017715F /* menu_bt1player.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = menu_bt1player.png; path = Resources/menu_bt1player.png; sourceTree = "<group>"; };
 		C704B4BD156F7FE40017715F /* menu_bt2player.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = menu_bt2player.png; path = Resources/menu_bt2player.png; sourceTree = "<group>"; };
 		C704B4BE156F7FE40017715F /* menu_btgo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = menu_btgo.png; path = Resources/menu_btgo.png; sourceTree = "<group>"; };
@@ -867,19 +864,6 @@
 		C77BF71F1599CD2600C5BED0 /* CableSystemDisplayObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CableSystemDisplayObject.m; sourceTree = "<group>"; };
 		C77BF7211599CD3800C5BED0 /* CableNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CableNode.h; sourceTree = "<group>"; };
 		C77BF7221599CD3800C5BED0 /* CableNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CableNode.m; sourceTree = "<group>"; };
-		C7821F8715A9B11700469BA8 /* JSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSON.h; sourceTree = "<group>"; };
-		C7821F8815A9B11700469BA8 /* NSObject+SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+SBJSON.h"; sourceTree = "<group>"; };
-		C7821F8915A9B11700469BA8 /* NSObject+SBJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+SBJSON.m"; sourceTree = "<group>"; };
-		C7821F8A15A9B11700469BA8 /* NSString+SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+SBJSON.h"; sourceTree = "<group>"; };
-		C7821F8B15A9B11700469BA8 /* NSString+SBJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+SBJSON.m"; sourceTree = "<group>"; };
-		C7821F8C15A9B11700469BA8 /* SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJSON.h; sourceTree = "<group>"; };
-		C7821F8D15A9B11700469BA8 /* SBJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJSON.m; sourceTree = "<group>"; };
-		C7821F8E15A9B11700469BA8 /* SBJsonBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonBase.h; sourceTree = "<group>"; };
-		C7821F8F15A9B11700469BA8 /* SBJsonBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonBase.m; sourceTree = "<group>"; };
-		C7821F9015A9B11700469BA8 /* SBJsonParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonParser.h; sourceTree = "<group>"; };
-		C7821F9115A9B11700469BA8 /* SBJsonParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonParser.m; sourceTree = "<group>"; };
-		C7821F9215A9B11700469BA8 /* SBJsonWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBJsonWriter.h; sourceTree = "<group>"; };
-		C7821F9315A9B11700469BA8 /* SBJsonWriter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBJsonWriter.m; sourceTree = "<group>"; };
 		C786BC901687290C00CA1C94 /* menu_back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = menu_back.png; path = Resources/menu_back.png; sourceTree = "<group>"; };
 		C78D358E161DFD9100128C5B /* help-bh@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "help-bh@2x.png"; path = "Resources/help-bh@2x.png"; sourceTree = "<group>"; };
 		C78D358F161DFD9100128C5B /* help-bonus-jump@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "help-bonus-jump@2x.png"; path = "Resources/help-bonus-jump@2x.png"; sourceTree = "<group>"; };
@@ -1633,6 +1617,7 @@
 				C7CFC8FB14D4518A00E96176 /* UIKit.framework in Frameworks */,
 				C7CFC8FD14D4518A00E96176 /* Foundation.framework in Frameworks */,
 				C7CFC8FF14D4518A00E96176 /* CoreGraphics.framework in Frameworks */,
+				0C544FF8F64C4BB6A899A60A /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1770,30 +1755,8 @@
 		C7821F7815A9B0B500469BA8 /* FBSDK */ = {
 			isa = PBXGroup;
 			children = (
-				C7821F8615A9B11700469BA8 /* JSON */,
 			);
 			name = FBSDK;
-			sourceTree = "<group>";
-		};
-		C7821F8615A9B11700469BA8 /* JSON */ = {
-			isa = PBXGroup;
-			children = (
-				C7821F8715A9B11700469BA8 /* JSON.h */,
-				C7821F8815A9B11700469BA8 /* NSObject+SBJSON.h */,
-				C7821F8915A9B11700469BA8 /* NSObject+SBJSON.m */,
-				C7821F8A15A9B11700469BA8 /* NSString+SBJSON.h */,
-				C7821F8B15A9B11700469BA8 /* NSString+SBJSON.m */,
-				C7821F8C15A9B11700469BA8 /* SBJSON.h */,
-				C7821F8D15A9B11700469BA8 /* SBJSON.m */,
-				C7821F8E15A9B11700469BA8 /* SBJsonBase.h */,
-				C7821F8F15A9B11700469BA8 /* SBJsonBase.m */,
-				C7821F9015A9B11700469BA8 /* SBJsonParser.h */,
-				C7821F9115A9B11700469BA8 /* SBJsonParser.m */,
-				C7821F9215A9B11700469BA8 /* SBJsonWriter.h */,
-				C7821F9315A9B11700469BA8 /* SBJsonWriter.m */,
-			);
-			name = JSON;
-			path = "../../facebook-ios-sdk/src/JSON";
 			sourceTree = "<group>";
 		};
 		C7A1BC6C14EB1B7100BE8266 /* collid object */ = {
@@ -2661,6 +2624,7 @@
 				C7CFC90014D4518A00E96176 /* RescueJumper */,
 				C7CFC8EF14D4518A00E96176 /* Frameworks */,
 				C7CFC8ED14D4518A00E96176 /* Products */,
+				812DB68E8994467194499184 /* Pods.xcconfig */,
 			);
 			sourceTree = "<group>";
 		};
@@ -2690,6 +2654,7 @@
 				C7CFC8FA14D4518A00E96176 /* UIKit.framework */,
 				C7CFC8FC14D4518A00E96176 /* Foundation.framework */,
 				C7CFC8FE14D4518A00E96176 /* CoreGraphics.framework */,
+				5B2EEEAFDA564DB6BDC99E34 /* libPods.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -3224,9 +3189,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C7CFCA5E14D4518E00E96176 /* Build configuration list for PBXNativeTarget "RescueJumper" */;
 			buildPhases = (
+				55E0FD86BEFF4752973B0476 /* Check Pods Manifest.lock */,
 				C7CFC8E814D4518A00E96176 /* Sources */,
 				C7CFC8E914D4518A00E96176 /* Frameworks */,
 				C7CFC8EA14D4518A00E96176 /* Resources */,
+				8AF8B635934F4B1483E6984D /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -3243,7 +3210,7 @@
 		C7CFC8E314D4518900E96176 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0450;
+				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "{EPITECH.}";
 			};
 			buildConfigurationList = C7CFC8E614D4518900E96176 /* Build configuration list for PBXProject "RescueJumper" */;
@@ -3671,6 +3638,39 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		55E0FD86BEFF4752973B0476 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		8AF8B635934F4B1483E6984D /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		C7CFC8E814D4518A00E96176 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -3859,12 +3859,6 @@
 				C7D6584F159D8FA4002C6DC7 /* HomeMenuController_Phone.m in Sources */,
 				C7D65852159D8FC1002C6DC7 /* HomeMenuController_Pad.m in Sources */,
 				C7D6588815A2CD49002C6DC7 /* RJTouch.m in Sources */,
-				C7821F9A15A9B11700469BA8 /* NSObject+SBJSON.m in Sources */,
-				C7821F9B15A9B11700469BA8 /* NSString+SBJSON.m in Sources */,
-				C7821F9C15A9B11700469BA8 /* SBJSON.m in Sources */,
-				C7821F9D15A9B11700469BA8 /* SBJsonBase.m in Sources */,
-				C7821F9E15A9B11700469BA8 /* SBJsonParser.m in Sources */,
-				C7821F9F15A9B11700469BA8 /* SBJsonWriter.m in Sources */,
 				C7BF886815B059C20027E0E1 /* BubbledTextDisplayObject.m in Sources */,
 				C7BF886B15B061BB0027E0E1 /* BubbledLabelBMFont.m in Sources */,
 				C7A055D415B86F65001328C0 /* GoToZeBuvette.m in Sources */,
@@ -3946,9 +3940,8 @@
 		C7CFCA5C14D4518E00E96176 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
-				CODE_SIGN_IDENTITY = "iPhone Developer: Constantin CLAUZEL (KD5M5ULYQ4)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Constantin CLAUZEL (KD5M5ULYQ4)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -3962,12 +3955,13 @@
 				HEADER_SEARCH_PATHS = /usr/include/libxml2;
 				INFOPLIST_FILE = "RescueJumper-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = (
 					"-all_load",
 					"-ObjC",
 				);
-				PROVISIONING_PROFILE = "DE072E78-9C6A-424E-A55A-186EF8904F57";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "DE072E78-9C6A-424E-A55A-186EF8904F57";
+				PROVISIONING_PROFILE = "5247f4cb-4a9f-410d-9034-4f3440ef4179";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "5247f4cb-4a9f-410d-9034-4f3440ef4179";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -3975,9 +3969,8 @@
 		C7CFCA5D14D4518E00E96176 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
-				CODE_SIGN_IDENTITY = "iPhone Developer: Constantin CLAUZEL (KD5M5ULYQ4)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Constantin CLAUZEL (KD5M5ULYQ4)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_PREPROCESSOR_DEFINITIONS = NDEBUG;
 				GCC_VERSION = com.apple.compilers.llvmgcc42;
@@ -3991,24 +3984,33 @@
 					"-all_load",
 					"-ObjC",
 				);
-				PROVISIONING_PROFILE = "DE072E78-9C6A-424E-A55A-186EF8904F57";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "DE072E78-9C6A-424E-A55A-186EF8904F57";
+				PROVISIONING_PROFILE = "5247f4cb-4a9f-410d-9034-4f3440ef4179";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "5247f4cb-4a9f-410d-9034-4f3440ef4179";
 				SDKROOT = iphoneos;
 			};
 			name = Release;
 		};
 		C7CFCA5F14D4518E00E96176 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 812DB68E8994467194499184 /* Pods.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Constantin CLAUZEL (KD5M5ULYQ4)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Constantin CLAUZEL (KD5M5ULYQ4)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = "";
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = RescueJumper/Prefix.pch;
 				"GCC_THUMB_SUPPORT[arch=armv6]" = "";
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"\"${PODS_ROOT}/Headers\"",
+					"\"${PODS_ROOT}/Headers/Bolts\"",
+					"\"${PODS_ROOT}/Headers/Facebook-iOS-SDK\"",
+					"\"${PODS_ROOT}/Headers/Facebook-iOS-SDK/FacebookSDK\"",
+					/usr/include/libxml2,
+				);
 				INFOPLIST_FILE = RescueJumper/Resources/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				LIBRARY_SEARCH_PATHS = (
@@ -4018,8 +4020,8 @@
 				);
 				OTHER_LDFLAGS = "-lz";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "053B9A8B-A792-43DA-8B41-5D7A13A8A531";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "053B9A8B-A792-43DA-8B41-5D7A13A8A531";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
@@ -4027,15 +4029,24 @@
 		};
 		C7CFCA6014D4518E00E96176 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 812DB68E8994467194499184 /* Pods.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Constantin CLAUZEL (KD5M5ULYQ4)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Constantin CLAUZEL (KD5M5ULYQ4)";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = YES;
+				FRAMEWORK_SEARCH_PATHS = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = RescueJumper/Prefix.pch;
 				"GCC_THUMB_SUPPORT[arch=armv6]" = "";
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"\"${PODS_ROOT}/Headers\"",
+					"\"${PODS_ROOT}/Headers/Bolts\"",
+					"\"${PODS_ROOT}/Headers/Facebook-iOS-SDK\"",
+					"\"${PODS_ROOT}/Headers/Facebook-iOS-SDK/FacebookSDK\"",
+					/usr/include/libxml2,
+				);
 				INFOPLIST_FILE = RescueJumper/Resources/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				LIBRARY_SEARCH_PATHS = (
@@ -4045,8 +4056,8 @@
 				);
 				OTHER_LDFLAGS = "-lz";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "053B9A8B-A792-43DA-8B41-5D7A13A8A531";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "053B9A8B-A792-43DA-8B41-5D7A13A8A531";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
